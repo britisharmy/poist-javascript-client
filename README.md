@@ -1,5 +1,6 @@
 # Poist-javascript-client
-This is an example of connecting to poist using javascript.
+
+Connect to the poist server using the poist javascript client.
 
 
 # Connecting
