@@ -1,7 +1,7 @@
 # poist-javascript-client
 This is an example of connecting to poist using javascript.
 
-#Connecting
+# Connecting
 
 ```
 <script src="//cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.2/sockjs.min.js"></script>
