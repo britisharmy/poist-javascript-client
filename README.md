@@ -1,4 +1,4 @@
-# Poist-javascript-client
+# Poist Javascript Client
 
 Connect to the poist server using the poist javascript client.
 
