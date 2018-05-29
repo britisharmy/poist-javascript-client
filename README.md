@@ -2,37 +2,6 @@
 
 Connect to the poist server using the poist javascript client.
 
-
-# Connecting
-
-Install the stomp plugin https://www.rabbitmq.com/stomp.html using this command
-
-```
-rabbitmq-plugins enable rabbitmq_stomp
-```
-
-and also the web stomp plugin
-
-https://www.rabbitmq.com/web-stomp.html
-
-```
-rabbitmq-plugins enable rabbitmq_web_stomp
-```
-
-Check if you have the plugins using this command
-
-```
-rabbitmq-plugins list
-```
-
-Once you have all the plugins,simply start poist
-
-```
-mvn jetty:run
-```
-
-and connect to poist using the code below.
-
 ```
 <script src="//cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.2/sockjs.min.js"></script>
 <script src="stomp.js"></script>
